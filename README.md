@@ -367,7 +367,7 @@ NOOR-v7.1/
 
 ## 📜 License
 
-**Proprietary** - UAE Government / NOOR Platform  
+**Proprietary** - J.Benedict Santos / NOOR Platform  
 All rights reserved.
 
 ---
